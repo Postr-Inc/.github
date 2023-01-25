@@ -1,5 +1,6 @@
 ## Hi Welcome to Postr Repository👋
 
+<img src="https://avatars.githubusercontent.com/u/123524260?s=200&v=4">
 
 🙋‍♀️ Postr aims - to make social media more availible to multiple age groups!
 <!--
