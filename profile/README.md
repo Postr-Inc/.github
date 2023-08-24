@@ -1,3 +1,3 @@
 ### Postr. post share and do more!
 
-Postr is an open-source social media mobile app aimed to be an alternative to threads - prioritizing security and stability! Users can post share - comment and much more. 
+Postr is a fully open sourced social media application/organization -> made to enhance the field of open source social media applications. Setting standards for open sourced data management - providing users full controll over the data they provide and use.
