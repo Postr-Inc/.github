@@ -1,3 +1,3 @@
-### Postr. post share and do more!
+###  Postr: Empowering Open Source Social Media
 
-Postr is a fully open sourced social media application/organization -> constructed to enhance the field of open source social media applications. Setting standards for open sourced data management - providing users full controll over the data they provide and use.
+At Postr, we're a dedicated open-source social media organization. Our mission? Inspiring the transition to open-source social apps. Our fully open-sourced app not only lets users explore its inner workings and data handling but also showcases the empowering tools we've developed!
