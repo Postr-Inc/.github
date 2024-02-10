@@ -1,3 +1,3 @@
-###  Empowering Open Source Social Media
+###  Empowering Open Source Tech
 
-At Postr, we're a dedicated open-source social media organization. Our mission is to inspire the transition to transparent and community-driven social applications.  
+At Pascal, we're a dedicated open-source  non-profit organization. Our mission is to inspire and build open source tech.  
