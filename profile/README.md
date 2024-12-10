@@ -1,3 +1,3 @@
-###  Empowering Open Source Tech
+###  Empowering Open Source Tech 
 
-At Postly, we're a dedicated open-source  non-profit organization. Our mission is to inspire and build open source tech.  
+At Pascale, we're extremely proud of open source software. We believe that the world thrives when there is openness around the apps and technologies we create. We hope to be able to make a big difference—whether through inspiration or by spreading knowledge through our code and ideas—by making our software freely modifiable and usable in any number of applications.
